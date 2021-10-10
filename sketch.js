@@ -24,7 +24,7 @@ function setup() {
   a1 = PI / 2;
   a2 = PI / 2;
   cx = width / 2;
-  cy = 250;
+  cy = 500;
   hue1 = 0;
   buffer = createGraphics(width, height);
   buffer.background(0);
